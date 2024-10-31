@@ -1,4 +1,4 @@
-# Boston University CAS 2023 Spring CS582 Final Project Series: Hilbert Curve Generation and Interpolation
+#  Hilbert Curve Generation and Interpolation
 
 ## Usage:
 ### 1. Clone repository and use an editor to edit operator_save.py to change your working directory
