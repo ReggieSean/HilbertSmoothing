@@ -40,7 +40,7 @@
 
 <img src="Figure8.png" width="300" height="300"/> 
 
-#### Note: possibly due to Blener's IO issue, sometimes, saving the morphed mesh could result in werid value that will break the interpolation. If that happens just recreate your mesh by clicking all three buttons, it should take only 1-2 try to create the interpolated stl mesh.  
+#### Note: possibly due to floating point issue, occasionally, saving the morphed mesh could result in werid value that will break the interpolation. If that happens just recreate your mesh by clicking all three buttons, it should take only 1-2 try to create the interpolated stl mesh.  
 
 ### 10. To prepare the print, select the mesh and add an modifier to the mesh:
 
